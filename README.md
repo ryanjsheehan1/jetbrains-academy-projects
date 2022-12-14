@@ -1,9 +1,9 @@
 # JetBrains Academy Projects
-**Below are various Java projects from JetBrains Academy by difficulty**
+**Various Java projects from JetBrains Academy**
 ### Easy
-- [Simple Chat Bot](jetbrains-academy-projects/simple-chat-bot)
-- [Simple Tic Tac Toet](jetbrains-academy-projects/simple-tic-tac-toe)
-- [Cinema Room Manager](jetbrains-academy-projects/cinema-room-manager)
+- [Simple Chat Bot](/simple-chat-bot)
+- [Simple Tic Tac Toet](/simple-tic-tac-toe)
+- [Cinema Room Manager](/cinema-room-manager)
 ### Medium
-- [Coffee Machine](jetbrains-academy-projects/cofee-machine)
-- [Number Base Convertor](jetbrains-academy-projects/number-base-converter)
+- [Coffee Machine](/cofee-machine)
+- [Number Base Convertor](/number-base-converter)
